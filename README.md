@@ -1,6 +1,6 @@
-<H3> NAME</H3><h4>GOKUL M</h4>
-<H3>REGISTER NO.</H3><h4>212222230037</h4>>
-<H3>EX. NO.1</H3>
+<H3> NAME : GOKUL M</H3>
+<H3>REGISTER NO: 212222230037</H4>
+<H3>EX NO:1</H3>
 <H3>DATE</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
